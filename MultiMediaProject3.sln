@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiMediaProject3", "MultiMediaProject3\MultiMediaProject3.csproj", "{A63A6709-81F1-412D-AF65-F8D31FD6154E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{37D8665F-3053-42C5-8646-64AFD7833F9D}"
+	ProjectSection(SolutionItems) = preProject
+		AudioManager.cs = AudioManager.cs
+		PlayList.cs = PlayList.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63A6709-81F1-412D-AF65-F8D31FD6154E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63A6709-81F1-412D-AF65-F8D31FD6154E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63A6709-81F1-412D-AF65-F8D31FD6154E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63A6709-81F1-412D-AF65-F8D31FD6154E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED70754-1F0B-4F20-ABB9-C9A07C0F7028}
+	EndGlobalSection
+EndGlobal
